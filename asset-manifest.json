@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "//stolzz0613.github.io/BreakingBad/static/css/main.42e1ad5c.chunk.css",
-    "main.js": "//stolzz0613.github.io/BreakingBad/static/js/main.bbcb6849.chunk.js",
-    "main.js.map": "//stolzz0613.github.io/BreakingBad/static/js/main.bbcb6849.chunk.js.map",
-    "runtime-main.js": "//stolzz0613.github.io/BreakingBad/static/js/runtime-main.2ce520cf.js",
-    "runtime-main.js.map": "//stolzz0613.github.io/BreakingBad/static/js/runtime-main.2ce520cf.js.map",
-    "static/js/2.05337dde.chunk.js": "//stolzz0613.github.io/BreakingBad/static/js/2.05337dde.chunk.js",
-    "static/js/2.05337dde.chunk.js.map": "//stolzz0613.github.io/BreakingBad/static/js/2.05337dde.chunk.js.map",
-    "index.html": "//stolzz0613.github.io/BreakingBad/index.html",
-    "precache-manifest.b8db4ed0ed0bef81347619e39e3e66f8.js": "//stolzz0613.github.io/BreakingBad/precache-manifest.b8db4ed0ed0bef81347619e39e3e66f8.js",
-    "service-worker.js": "//stolzz0613.github.io/BreakingBad/service-worker.js",
-    "static/css/main.42e1ad5c.chunk.css.map": "//stolzz0613.github.io/BreakingBad/static/css/main.42e1ad5c.chunk.css.map",
-    "static/js/2.05337dde.chunk.js.LICENSE.txt": "//stolzz0613.github.io/BreakingBad/static/js/2.05337dde.chunk.js.LICENSE.txt",
-    "static/media/index.css": "//stolzz0613.github.io/BreakingBad/static/media/logo.427a4adc.svg"
+    "main.css": "/BreakingBad/static/css/main.0e5172fd.chunk.css",
+    "main.js": "/BreakingBad/static/js/main.159eeb52.chunk.js",
+    "main.js.map": "/BreakingBad/static/js/main.159eeb52.chunk.js.map",
+    "runtime-main.js": "/BreakingBad/static/js/runtime-main.5d2a3bf2.js",
+    "runtime-main.js.map": "/BreakingBad/static/js/runtime-main.5d2a3bf2.js.map",
+    "static/js/2.05337dde.chunk.js": "/BreakingBad/static/js/2.05337dde.chunk.js",
+    "static/js/2.05337dde.chunk.js.map": "/BreakingBad/static/js/2.05337dde.chunk.js.map",
+    "index.html": "/BreakingBad/index.html",
+    "precache-manifest.ab18c656f652ec85444caf4090936a9a.js": "/BreakingBad/precache-manifest.ab18c656f652ec85444caf4090936a9a.js",
+    "service-worker.js": "/BreakingBad/service-worker.js",
+    "static/css/main.0e5172fd.chunk.css.map": "/BreakingBad/static/css/main.0e5172fd.chunk.css.map",
+    "static/js/2.05337dde.chunk.js.LICENSE.txt": "/BreakingBad/static/js/2.05337dde.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/BreakingBad/static/media/logo.427a4adc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ce520cf.js",
+    "static/js/runtime-main.5d2a3bf2.js",
     "static/js/2.05337dde.chunk.js",
-    "static/css/main.42e1ad5c.chunk.css",
-    "static/js/main.bbcb6849.chunk.js"
+    "static/css/main.0e5172fd.chunk.css",
+    "static/js/main.159eeb52.chunk.js"
   ]
 }
