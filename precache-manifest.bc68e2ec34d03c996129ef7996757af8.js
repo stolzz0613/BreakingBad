@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e51fb5374da69e8a8c729692f29093b",
+    "revision": "5d73e3d0f21f448195dd3d85d6452d3d",
     "url": "/BreakingBad/index.html"
   },
   {
-    "revision": "08508bb168409269eced",
+    "revision": "7600137892d315d4a785",
     "url": "/BreakingBad/static/css/main.0e5172fd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BreakingBad/static/js/2.05337dde.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "08508bb168409269eced",
-    "url": "/BreakingBad/static/js/main.20bdea94.chunk.js"
+    "revision": "7600137892d315d4a785",
+    "url": "/BreakingBad/static/js/main.738dd941.chunk.js"
   },
   {
     "revision": "e980b85c0b139f262d6a",
